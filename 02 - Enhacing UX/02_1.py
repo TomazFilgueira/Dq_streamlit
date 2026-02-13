@@ -1,4 +1,4 @@
-import st
+import streamlit as st # type: ignore
 
 st.title("GlobalJava Roasters ☕")
 st.title("Navigation")
